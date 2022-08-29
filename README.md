@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-![twoone17's github stats](https://github-readme-stats.vercel.app/api?username=아이디&show_icons=true)
+![twoone17's github stats](https://github-readme-stats.vercel.app/api?username=twoone17&show_icons=true)
